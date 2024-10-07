@@ -11,4 +11,4 @@
 • Bernoulli Naive Bayes
   - Mô hình này được sử dụng khi các đặc trưng đầu vào chỉ nhận giá trị nhị phân 0 hoặc 1 (phân bố Bernoulli). Phù hợp để xử lý phân loại tài liệu 
   - Công thức : 
-  - <img width="380" alt="chưa có load được ảnh, thông cảm :>" src="https://github.com/Huy48/week2/issues/1">
+  - <img width="380" alt="chưa có load được ảnh, thông cảm :>" src="![Bernoulli Naive Bayes](https://github.com/user-attachments/assets/1cd5421b-94d3-43c2-9801-6bb211b60b29)">
