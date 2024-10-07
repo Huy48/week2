@@ -13,3 +13,8 @@
   - Công thức : 
   - <img width="380" alt="Bernoulli Naive Bayes" src="https://github.com/user-attachments/assets/db490f19-88d2-4e78-8559-30f698083e57">
   
+• Multinomial Naive Bayes
+Mô thường được sử dụng cho các bài toán phân loại có đặc trưng là số nguyên không âm, đặc biệt phổ biến trong phân loại văn bản và mô hình phân tích tần suất của các từ trong tài liệu.
+
+  - Công thức : 
+  - <img width="376" alt="Multinomial Naive Bayes" src="https://github.com/user-attachments/assets/6e9ae11b-5906-4279-b98b-ca60933d0576">
